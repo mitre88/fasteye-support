@@ -5,7 +5,7 @@ FastEye is an iPhone app focused on short cognitive training exercises for focus
 ## Support
 If you need help with FastEye, please contact:
 
-- Email: support@fast-eye.app
+- Email: bedr10_capacitacion@hotmail.com
 - Developer: Alejandro Hernandez Mitre
 
 ## App Information

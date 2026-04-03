@@ -17,4 +17,4 @@ FastEye does not use third-party tracking SDKs and does not track users across a
 FastEye does not require camera, microphone, location, contacts, or photo library access for the main app experience.
 
 ## Contact
-For privacy questions, contact: support@fast-eye.app
+For privacy questions, contact: bedr10_capacitacion@hotmail.com
